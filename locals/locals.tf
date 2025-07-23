@@ -1,4 +1,4 @@
 locals {
     domain_name = "doddapaneni.shop"
-    zone_id = "Z0486123205W1JWLD2711"
+    zone_id = "Z0989413WMD6SQ9PT0G9"
 }
